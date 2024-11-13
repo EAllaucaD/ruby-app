@@ -38,13 +38,13 @@ You need:
 
 ### Download image
 ```
-    docker pull edwinallauca/ruby-hello-world
+    docker pull edwinallauca/ruby-hello-world:v1.0
 ```
 
 ### View the results
 You can open de CMD and run this :
 ```
-    docker run -it ruby-hello-world
+    docker run -it edwinallauca/ruby-hello-world:v1.0
 ```
 With this command you will verify that you have the image in your docker.
 
