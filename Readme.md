@@ -11,7 +11,7 @@ This project build with:
  * Ruby
  * Dockerfile
 
-## Getting Started
+## Getting Started with Github: 
 * Clone the repository
 
     ```
@@ -24,7 +24,11 @@ This project build with:
 * You need to have installed VSC on your laptop.
 * Inside the editor VSC, open the app.rb.
 
+* Run the app with this command:
 
+    ```
+    ruby app.rb
+    ```
 
 ## How to run with docker
 You need:
