@@ -1,4 +1,5 @@
 # app.rb
+require 'rubygems'
 require 'webrick'
 
 # Configure the server to listen on port 8082
