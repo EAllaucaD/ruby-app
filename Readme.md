@@ -1,9 +1,19 @@
 # About the project
 
-# Hello world with Ruby
+
+## **🚨Attention! 🚨**
+
+This is an important message related to the project. Please read it carefully before proceeding.
+
+- **Main Branch:** [In this branch, you will find the app with Dockerfile and uploaded to DockerHub].
+- **Deploy Branch:** [In this branch, you can view the deployed application on Render].
+
+---
+
+# Hello World with Ruby
 
 
-A basic Rubi project that prints a "Hello World."
+A basic Ruby project that prints a "Hello World."
 
 ### Built With
 
@@ -61,23 +71,3 @@ You need account in Docker Hub and update your js Image.
 
 ![image](https://github.com/user-attachments/assets/bb09b016-dbd3-48f0-a6d1-264356637750)
 
-
-
-
-## How Deploy with Render:
-
-You need to link your Github account.
-
-
-## View the results in Render:
-You need to log in to railroad with your preferred github.
-
-Next: You need select the web service and deploy your project.
-![image](https://github.com/user-attachments/assets/f96b8535-8b8d-4330-a9d2-811b8fac9bef)
-
-You see the app in this link:
-
-https://ruby-app-15ep.onrender.com/
-
-
-![image](https://github.com/user-attachments/assets/839de8d4-3b4b-48be-a51e-9bfbc1366276)
