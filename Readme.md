@@ -9,7 +9,6 @@ A basic Rubi project that prints a "Hello World."
 
 This project build with:
  * Ruby
- * Dockerfile
 
 ## Getting Started with Github: 
 * Clone the repository
