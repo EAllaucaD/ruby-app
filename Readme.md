@@ -6,6 +6,7 @@
 This is an important message related to the project. Please read it carefully before proceeding.
 
 - **Main Branch:** [In this branch, you will find the app with Dockerfile and uploaded to DockerHub].
+
 - **Deploy Branch:** [In this branch, you can view the deployed application on Render].
 
 ---
@@ -67,7 +68,7 @@ You see the print in your browser:
 
 ## Image in DockerHub
 
-You need account in Docker Hub and update your js Image.
+You need account in Docker Hub and update your Ruby Image.
 
 ![image](https://github.com/user-attachments/assets/bb09b016-dbd3-48f0-a6d1-264356637750)
 
